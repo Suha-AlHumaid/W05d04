@@ -1,0 +1,6 @@
+[{"id":"0","name":"HI0","isFav":false,"isDeleted":false},
+    {"id":"1","name":"HI1","isFav":false,"isDeleted":false},
+    {"id":"2","name":"HI2","isFav":true,"isDeleted":false},
+    {"id":"3","name":"HI3","isFav":false,"isDeleted":false},
+    {"id":"4","name":"HI4","isFav":true,"isDeleted":false}
+  ]
